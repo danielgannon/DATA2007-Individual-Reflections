@@ -1,6 +1,6 @@
 # Weekly Reflections
 
-## Week 1 Reflection (05/010/2026)
+## Week 1 Reflection (05/10/2026)
 
 ## What was done this week
   - Worked through the TAG brief
@@ -15,7 +15,7 @@
   - Complete this exploration on a new branch for the Github
   - Write this up into a .md
 
-## Week 2 Reflection (12/010/2026)
+## Week 2 Reflection (12/10/2026)
 
 ## What was done this week  
   - I watched the software requirements video
@@ -29,3 +29,28 @@
   - Do some research into powerBI and streamlit to decide what we should use
   - Decide what features we will each take then start work on it
 
+
+## Week 3 Reflection (19/10/2026)
+
+## What was done this week  
+  - Write my 5 software requirements using the crazy 8 to help.
+  - I decided to vote for streamlit
+  - Attended the team meeting for the week.
+
+
+## Next week plan
+  - Work on the features that I was allocated which was the derived features
+  - Learn more about Streamlit dashboards
+    
+
+  ## Week 4 Reflection (26/10/2026)
+
+## What was done this week  
+  - I wrote my 5 software requirements for example
+    - VO2 max estimate
+    - Walking speed
+    - Walking cadence
+  - QA all team mates code (No issues found)
+  - Added the features to the dashboard
+  - I could not attend this weeks meeting due to a family emergency
+  - Attend the team meeting to create the project video
